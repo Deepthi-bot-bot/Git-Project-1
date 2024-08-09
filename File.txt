@@ -1,2 +1,4 @@
 Hi, This is just a test file
 I just edited the file
+To merge directly from the command line
+
